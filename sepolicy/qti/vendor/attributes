@@ -3,3 +3,8 @@ vendor_hal_attribute(oplusSensor)
 vendor_hal_attribute(oplus_cammidasservice)
 vendor_hal_attribute(oplus_performance)
 vendor_hal_attribute(oplus_project)
+
+# IFAA
+attribute hal_ifaa;
+attribute hal_ifaa_client;
+attribute hal_ifaa_server;
